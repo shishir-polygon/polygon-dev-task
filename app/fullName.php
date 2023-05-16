@@ -1,5 +1,5 @@
 <?php
-namespace FullName;
+namespace FullName\app;
 
 class fullName{
     public $firstName;
